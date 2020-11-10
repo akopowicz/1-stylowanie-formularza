@@ -34,7 +34,7 @@ label {
 }
 
 label[for*="male"],
-label[for*="agreement"] {
+label[for="agreement"] {
     display: inline;
 }
 
